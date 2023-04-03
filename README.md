@@ -23,14 +23,9 @@ git add .
 ```
 git commit -m "Initial commit"
 ```
-<p>5. Add your files to remote repository</p>
+<p>5. Push the file to github</p>
 
 ```
-git remote add origin https://github.com/TEAM-WebAssassins/Finance-Dashboard-App.git
-```
-<p>6. Push the file to github</p>
-
-```
-git push -u origin master
+git push -u origin main
 ```
 
