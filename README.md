@@ -32,8 +32,6 @@
     <li>mongoose</li>
     <li>Regression JS</li>
   </ol>
-  
-<br>
 <h3>About MUI</h3>
 <ul>
   <li>Material UI is an open-source React component library that implements Google's Material Design. </li>
@@ -42,8 +40,7 @@
 
   <li> Also, we use Material UI data grid for the tables shown in the dashboard. </li>
 </ul>
-  <br>
-<h3>VITE</h3>
+<h3>About VITE</h3>
   <p>Vite is a tool that aims to provide a faster and leaner development experience for modern web projects.</p>
 
 <h5> Advantages of Vite: </h5>
@@ -52,6 +49,7 @@
 
   <li> It helps to update the data in the project without reloading the page </li>
 </ul>
+<br>
 <h2>Steps has to be followed before you make a merge with this repository</h2>
 <br>
 <p>1. Clone github repository</p>
