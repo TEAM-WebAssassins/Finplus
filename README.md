@@ -49,6 +49,8 @@
 
   <li> It helps to update the data in the project without reloading the page </li>
 </ul>
+<h3> Demo </h3>
+<img style="width:60%" src="./finplus.gif" />
 <hr>
 <h2>Steps has to be followed before you make a merge with this repository</h2>
 <br>
