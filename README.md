@@ -8,7 +8,6 @@
   <li>It is used to get meaningful insights for the segment of your financial data in business. </li>
   <li>One can gain a deeper understanding of their business through FinPlus and take strategic decisions for the business. </li>
 </ul>
-<br>
 <h3>Why FinPlus? </h3>
 <ul>
   <li>It is a MERN Finance Dashboard App that has Machine Learning Predictions. </li>
@@ -16,7 +15,7 @@
   </ul>
   
   <h3>Frontend Tools used to make FinPlus</h3>
-  <ol type="i">
+  <ol>
   <li>Material UI </li>
   <li>TypeScript</li>
   <li>Vite</li>
@@ -27,7 +26,7 @@
     <li>React Router</li>
   </ol>
    <h3>Backend Tools used to make FinPlus</h3>
-  <ol type="i">
+  <ol>
   <li>Node JS</li>
     <li>Express JS</li>
     <li>mongoose</li>
