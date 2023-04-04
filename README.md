@@ -43,20 +43,16 @@
 
   <li> Also, we use Material UI data grid for the tables shown in the dashboard. </li>
 </ul>
-  
   <br>
-  
 <h3>VITE</h3>
   <p>Vite is a tool that aims to provide a faster and leaner development experience for modern web projects.</p>
 
-<h5> Advantages of Vite </h5>
+<h5> Advantages of Vite: </h5>
 <ul>
   <li> It is 20x faster, so less waiting time for reflecting file updates </li>
 
   <li> It helps to update the data in the project without reloading the page </li>
 </ul>
-
-
 <h2>Steps has to be followed before you make a merge with this repository</h2>
 <br>
 <p>1. Clone github repository</p>
