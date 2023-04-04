@@ -49,7 +49,7 @@
 
   <li> It helps to update the data in the project without reloading the page </li>
 </ul>
-<br>
+<hr>
 <h2>Steps has to be followed before you make a merge with this repository</h2>
 <br>
 <p>1. Clone github repository</p>
