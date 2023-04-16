@@ -74,3 +74,9 @@ git clone https://github.com/TEAM-WebAssassins/Finance-Dashboard-App.git
 |                                    |                                     |
 
 ```
+<p>3. Go into .env file inside server dir and add mongodb url & port no</p>
+
+```
+MONGO_URL='mongodb+srv://USERNAME:PASSWORD@cluster0.pzaa32l.mongodb.net/?retryWrites=true&w=majority'
+PORT=1337
+```
