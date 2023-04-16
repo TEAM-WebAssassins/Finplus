@@ -64,13 +64,15 @@ git clone https://github.com/TEAM-WebAssassins/Finance-Dashboard-App.git
 
 ```
 |         Client terminal            |           Server terminal           |
-|:-----------------------------------|-------------------------------------|
+|:-----------------------------------|------------------------------------:|
 |                                    |                                     |
 | \Finance-Dashboard-App> cd client  |  \Finance-Dashboard-App> cd server  |
 |                                    |                                     |
-|  npm i --force                     |   npm i --force                     |
+|                                    |   npm i --force                     |
+|   npm i --force                    |                                     |
+|                                    |   touch .env                        |
 |                                    |                                     |
-|  npm run dev                       |   nodemon index.js                  |
+|   npm run dev                      |   nodemon index.js                  |
 |                                    |                                     |
 
 ```
