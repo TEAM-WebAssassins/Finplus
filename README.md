@@ -52,30 +52,24 @@
 <h3> Demo </h3>
 <img style="width:75%" src="./finplus.gif" />
 <hr>
-<h2>Steps has to be followed before you make a merge with this repository</h2>
-<br>
+
+## To Use
 <p>1. Clone github repository</p>
 
 ```
 git clone https://github.com/TEAM-WebAssassins/Finance-Dashboard-App.git 
 ```
-<p>2. Make a Modification/changes</p>
-
->warning!
->>Don't try to change the current file name which is currently present in directory/folder.
-<p>3. Add all file to your working Directory</p>
+<p>2. Split Terminal</p>
 
 ```
-git add .
-```
-<p>4. Commit the files to local repository</p>
+|         Client terminal            |           Server terminal           |
+|:-----------------------------------|-------------------------------------|
+|                                    |                                     |
+| \Finance-Dashboard-App> cd client  |  \Finance-Dashboard-App> cd server  |
+|                                    |                                     |
+|  npm i --force                     |   npm i --force                     |
+|                                    |                                     |
+|  npm run dev                       |   nodemon index.js                  |
+|                                    |                                     |
 
 ```
-git commit -m "Initial commit"
-```
-<p>5. Push the file to github</p>
-
-```
-git push -u origin main
-```
-
