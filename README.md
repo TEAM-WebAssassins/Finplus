@@ -54,6 +54,7 @@
 <hr>
 
 ## To Use
+To clone and run this repository you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en) (which comes with npm) installed on your computer. From your command line:
 <p>1. Clone github repository</p>
 
 ```
